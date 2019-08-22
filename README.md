@@ -32,4 +32,9 @@ If-Modified-Since: Wed, 22 Jul 2009 19:15:56 GM
   ![demo2.png](https://github.com/lanlanblue/http-server/blob/master/demo2.png)
   - Download response
   ![demo3.png](https://github.com/lanlanblue/http-server/blob/master/demo3.png)
+  
+## Usage
+1. Compile myhttpServer.cpp
+2. Connect to local server 0.0.0.0:8080 with web browser
+3. Choose directory/files on browser, then you can download pictures
 
